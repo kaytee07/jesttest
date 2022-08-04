@@ -1,7 +1,1 @@
-Four months ago I saw a post about AWS on twitter which peeked my interest.I 
-did an extensive research about it and I finally decided to get the AWS 
-Solutions Architect - Associate certification. After months of self learning
-, hands on labs and a cold feet which almost made me reschedule my exam date
- I can finally call myself an aws certified solutions architect associate. I
-can't wait apply everything I learnt in my future projects.   
-#aws#amazon
+
