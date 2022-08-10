@@ -17,5 +17,5 @@ it("multiply", () => {
 })
 
 it("divide", () => {
-    expect(calculate.subtract('a',2)).toBe(5)
+    expect(calculate.subtract(4,2)).toBe(5)
 })

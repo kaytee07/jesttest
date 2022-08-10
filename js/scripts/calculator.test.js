@@ -15,5 +15,5 @@ it("multiply", function () {
   expect(calculate.multiply(5, 5)).toBe(25);
 });
 it("divide", function () {
-  expect(calculate.subtract('a', 2)).toBe(5);
+  expect(calculate.subtract(4, 2)).toBe(5);
 });
